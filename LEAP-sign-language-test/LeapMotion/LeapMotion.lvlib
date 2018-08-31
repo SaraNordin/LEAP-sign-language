@@ -52,6 +52,7 @@
 		<Item Name="WriteString.vi" Type="VI" URL="../SubVIs/WriteString.vi"/>
 		<Item Name="WriteHeaderTwoHands.vi" Type="VI" URL="../SubVIs/WriteHeaderTwoHands.vi"/>
 		<Item Name="PlotHands.vi" Type="VI" URL="../SubVIs/PlotHands.vi"/>
+		<Item Name="Countdown.vi" Type="VI" URL="../SubVIs/Countdown.vi"/>
 	</Item>
 	<Item Name="Dynamic Libraries" Type="Folder">
 		<Item Name="Leap.dll" Type="Document" URL="../Dynamic Libraries/Leap.dll"/>
