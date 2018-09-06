@@ -54,13 +54,12 @@
 		<Item Name="PlotHands.vi" Type="VI" URL="../SubVIs/PlotHands.vi"/>
 		<Item Name="Countdown.vi" Type="VI" URL="../SubVIs/Countdown.vi"/>
 		<Item Name="SaveArm.vi" Type="VI" URL="../SubVIs/SaveArm.vi"/>
+		<Item Name="CalculateAccuracy.vi" Type="VI" URL="../SubVIs/CalculateAccuracy.vi"/>
 	</Item>
 	<Item Name="Dynamic Libraries" Type="Folder">
 		<Item Name="Leap.dll" Type="Document" URL="../Dynamic Libraries/Leap.dll"/>
 		<Item Name="LeapC.dll" Type="Document" URL="../Dynamic Libraries/LeapC.dll"/>
 		<Item Name="LeapCSharp.dll" Type="Document" URL="../Dynamic Libraries/LeapCSharp.dll"/>
-		<Item Name="LeapCSharp.NET3.5.dll" Type="Document" URL="../Dynamic Libraries/LeapCSharp.NET3.5.dll"/>
-		<Item Name="LeapCSharp.NET4.0.dll" Type="Document" URL="../Dynamic Libraries/LeapCSharp.NET4.0.dll"/>
 		<Item Name="LeapCSharp.NET4.5.dll" Type="Document" URL="../Dynamic Libraries/LeapCSharp.NET4.5.dll"/>
 	</Item>
 	<Item Name="TypeDefs" Type="Folder">
