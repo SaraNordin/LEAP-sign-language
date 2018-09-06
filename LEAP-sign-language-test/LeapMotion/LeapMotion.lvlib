@@ -41,7 +41,9 @@
 		<Item Name="LEAPclose.vi" Type="VI" URL="../SubVIs/LEAPclose.vi"/>
 		<Item Name="LEAPopen.vi" Type="VI" URL="../SubVIs/LEAPopen.vi"/>
 		<Item Name="LEAPread.vi" Type="VI" URL="../SubVIs/LEAPread.vi"/>
+		<Item Name="SaveTwoHands.vi" Type="VI" URL="../SubVIs/SaveTwoHands.vi"/>
 		<Item Name="PlotHand.vi" Type="VI" URL="../SubVIs/PlotHand.vi"/>
+		<Item Name="CalculateAccuracy.vi" Type="VI" URL="../SubVIs/CalculateAccuracy.vi"/>
 		<Item Name="SaveBone.vi" Type="VI" URL="../SubVIs/SaveBone.vi"/>
 		<Item Name="SaveFinger.vi" Type="VI" URL="../SubVIs/SaveFinger.vi"/>
 		<Item Name="SaveFrame.vi" Type="VI" URL="../SubVIs/SaveFrame.vi"/>

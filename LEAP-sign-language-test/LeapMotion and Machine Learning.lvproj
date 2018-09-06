@@ -19,7 +19,6 @@
 		<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 		<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
 		<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
-		<Item Name="SaveTwoHands.vi" Type="VI" URL="../LeapMotion/SubVIs/SaveTwoHands.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="aml_All Models (enum).ctl" Type="VI" URL="/&lt;vilib&gt;/addons/AML/Example Support/aml_All Models (enum).ctl"/>
