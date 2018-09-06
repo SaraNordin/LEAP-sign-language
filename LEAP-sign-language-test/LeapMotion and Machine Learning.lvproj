@@ -97,7 +97,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="niamlsvm.dll" Type="Document" URL="/&lt;resource&gt;/niamlsvm.dll"/>
-			<Item Name="SaveTwoHands.vi" Type="VI" URL="../LeapMotion/SubVIs/SaveTwoHands.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

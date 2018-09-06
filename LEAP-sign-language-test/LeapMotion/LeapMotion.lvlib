@@ -41,7 +41,9 @@
 		<Item Name="LEAPclose.vi" Type="VI" URL="../SubVIs/LEAPclose.vi"/>
 		<Item Name="LEAPopen.vi" Type="VI" URL="../SubVIs/LEAPopen.vi"/>
 		<Item Name="LEAPread.vi" Type="VI" URL="../SubVIs/LEAPread.vi"/>
+		<Item Name="SaveTwoHands.vi" Type="VI" URL="../SubVIs/SaveTwoHands.vi"/>
 		<Item Name="PlotHand.vi" Type="VI" URL="../SubVIs/PlotHand.vi"/>
+		<Item Name="CalculateAccuracy.vi" Type="VI" URL="../SubVIs/CalculateAccuracy.vi"/>
 		<Item Name="SaveBone.vi" Type="VI" URL="../SubVIs/SaveBone.vi"/>
 		<Item Name="SaveFinger.vi" Type="VI" URL="../SubVIs/SaveFinger.vi"/>
 		<Item Name="SaveFrame.vi" Type="VI" URL="../SubVIs/SaveFrame.vi"/>
@@ -52,6 +54,8 @@
 		<Item Name="WriteString.vi" Type="VI" URL="../SubVIs/WriteString.vi"/>
 		<Item Name="WriteHeaderTwoHands.vi" Type="VI" URL="../SubVIs/WriteHeaderTwoHands.vi"/>
 		<Item Name="PlotHands.vi" Type="VI" URL="../SubVIs/PlotHands.vi"/>
+		<Item Name="Countdown.vi" Type="VI" URL="../SubVIs/Countdown.vi"/>
+		<Item Name="SaveArm.vi" Type="VI" URL="../SubVIs/SaveArm.vi"/>
 	</Item>
 	<Item Name="Dynamic Libraries" Type="Folder">
 		<Item Name="Leap.dll" Type="Document" URL="../Dynamic Libraries/Leap.dll"/>
@@ -63,6 +67,7 @@
 	</Item>
 	<Item Name="TypeDefs" Type="Folder">
 		<Item Name="LEAPbone.ctl" Type="VI" URL="../TypeDefs/LEAPbone.ctl"/>
+		<Item Name="LEAParm.ctl" Type="VI" URL="../TypeDefs/LEAParm.ctl"/>
 		<Item Name="LEAPfinger.ctl" Type="VI" URL="../TypeDefs/LEAPfinger.ctl"/>
 		<Item Name="LEAPframe.ctl" Type="VI" URL="../TypeDefs/LEAPframe.ctl"/>
 		<Item Name="LEAPhand.ctl" Type="VI" URL="../TypeDefs/LEAPhand.ctl"/>
