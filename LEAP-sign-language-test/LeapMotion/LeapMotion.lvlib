@@ -41,9 +41,8 @@
 		<Item Name="LEAPclose.vi" Type="VI" URL="../SubVIs/LEAPclose.vi"/>
 		<Item Name="LEAPopen.vi" Type="VI" URL="../SubVIs/LEAPopen.vi"/>
 		<Item Name="LEAPread.vi" Type="VI" URL="../SubVIs/LEAPread.vi"/>
-		<Item Name="SaveTwoHands.vi" Type="VI" URL="../SubVIs/SaveTwoHands.vi"/>
 		<Item Name="PlotHand.vi" Type="VI" URL="../SubVIs/PlotHand.vi"/>
-		<Item Name="CalculateAccuracy.vi" Type="VI" URL="../SubVIs/CalculateAccuracy.vi"/>
+		<Item Name="SaveTwoHands.vi" Type="VI" URL="../SubVIs/SaveTwoHands.vi"/>
 		<Item Name="SaveBone.vi" Type="VI" URL="../SubVIs/SaveBone.vi"/>
 		<Item Name="SaveFinger.vi" Type="VI" URL="../SubVIs/SaveFinger.vi"/>
 		<Item Name="SaveFrame.vi" Type="VI" URL="../SubVIs/SaveFrame.vi"/>
@@ -56,13 +55,12 @@
 		<Item Name="PlotHands.vi" Type="VI" URL="../SubVIs/PlotHands.vi"/>
 		<Item Name="Countdown.vi" Type="VI" URL="../SubVIs/Countdown.vi"/>
 		<Item Name="SaveArm.vi" Type="VI" URL="../SubVIs/SaveArm.vi"/>
+		<Item Name="CalculateAccuracy.vi" Type="VI" URL="../SubVIs/CalculateAccuracy.vi"/>
 	</Item>
 	<Item Name="Dynamic Libraries" Type="Folder">
 		<Item Name="Leap.dll" Type="Document" URL="../Dynamic Libraries/Leap.dll"/>
 		<Item Name="LeapC.dll" Type="Document" URL="../Dynamic Libraries/LeapC.dll"/>
 		<Item Name="LeapCSharp.dll" Type="Document" URL="../Dynamic Libraries/LeapCSharp.dll"/>
-		<Item Name="LeapCSharp.NET3.5.dll" Type="Document" URL="../Dynamic Libraries/LeapCSharp.NET3.5.dll"/>
-		<Item Name="LeapCSharp.NET4.0.dll" Type="Document" URL="../Dynamic Libraries/LeapCSharp.NET4.0.dll"/>
 		<Item Name="LeapCSharp.NET4.5.dll" Type="Document" URL="../Dynamic Libraries/LeapCSharp.NET4.5.dll"/>
 	</Item>
 	<Item Name="TypeDefs" Type="Folder">
@@ -71,6 +69,7 @@
 		<Item Name="LEAPfinger.ctl" Type="VI" URL="../TypeDefs/LEAPfinger.ctl"/>
 		<Item Name="LEAPframe.ctl" Type="VI" URL="../TypeDefs/LEAPframe.ctl"/>
 		<Item Name="LEAPhand.ctl" Type="VI" URL="../TypeDefs/LEAPhand.ctl"/>
+		<Item Name="AppData.ctl" Type="VI" URL="../TypeDefs/AppData.ctl"/>
 		<Item Name="LEAPvector.ctl" Type="VI" URL="../TypeDefs/LEAPvector.ctl"/>
 		<Item Name="StateSelector.ctl" Type="VI" URL="../TypeDefs/StateSelector.ctl"/>
 		<Item Name="SelectSign.ctl" Type="VI" URL="../TypeDefs/SelectSign.ctl"/>
