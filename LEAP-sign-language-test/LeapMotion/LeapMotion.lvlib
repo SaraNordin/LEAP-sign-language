@@ -42,6 +42,7 @@
 		<Item Name="LEAPopen.vi" Type="VI" URL="../SubVIs/LEAPopen.vi"/>
 		<Item Name="LEAPread.vi" Type="VI" URL="../SubVIs/LEAPread.vi"/>
 		<Item Name="PlotHand.vi" Type="VI" URL="../SubVIs/PlotHand.vi"/>
+		<Item Name="SaveTwoHands.vi" Type="VI" URL="../SubVIs/SaveTwoHands.vi"/>
 		<Item Name="SaveBone.vi" Type="VI" URL="../SubVIs/SaveBone.vi"/>
 		<Item Name="SaveFinger.vi" Type="VI" URL="../SubVIs/SaveFinger.vi"/>
 		<Item Name="SaveFrame.vi" Type="VI" URL="../SubVIs/SaveFrame.vi"/>
@@ -68,6 +69,7 @@
 		<Item Name="LEAPfinger.ctl" Type="VI" URL="../TypeDefs/LEAPfinger.ctl"/>
 		<Item Name="LEAPframe.ctl" Type="VI" URL="../TypeDefs/LEAPframe.ctl"/>
 		<Item Name="LEAPhand.ctl" Type="VI" URL="../TypeDefs/LEAPhand.ctl"/>
+		<Item Name="AppData.ctl" Type="VI" URL="../TypeDefs/AppData.ctl"/>
 		<Item Name="LEAPvector.ctl" Type="VI" URL="../TypeDefs/LEAPvector.ctl"/>
 		<Item Name="StateSelector.ctl" Type="VI" URL="../TypeDefs/StateSelector.ctl"/>
 		<Item Name="SelectSign.ctl" Type="VI" URL="../TypeDefs/SelectSign.ctl"/>
