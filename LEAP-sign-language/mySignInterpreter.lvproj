@@ -11,9 +11,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Analytics and Machine Learning.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/AML/Analytics and Machine Learning.lvlib"/>
-		<Item Name="LeapMain.vi" Type="VI" URL="../LeapMain.vi"/>
 		<Item Name="LeapMotion.lvlib" Type="Library" URL="../LeapMotion/LeapMotion.lvlib"/>
 		<Item Name="MachineLearning.lvlib" Type="Library" URL="../MachineLearning/MachineLearning.lvlib"/>
+		<Item Name="mySignInterpreter.vi" Type="VI" URL="../mySignInterpreter.vi"/>
 		<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 		<Item Name="NI_AALBLAS.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBLAS.lvlib"/>
 		<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
